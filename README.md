@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,linux,gcp,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,database,docker,linux,gcp" />
 </p>
 
 ---
@@ -19,15 +19,8 @@
 ### 💬 Ask me about
 - ☕ Java & Spring Boot
 - 🧩 Microservices
-- 🐘 PostgreSQL
+- 🐘 Database
 - ⚙️ DevOps basics
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rathachhorm&show_icons=true&theme=default" />
-</p>
 
 ---
 
