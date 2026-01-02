@@ -9,20 +9,22 @@
 ---
 
 ### 👨‍💻 About Me
-Software developer with experience in **Java, Spring Boot, Next.js, React, and Python**.  
-I build **clean, reliable APIs** and **responsive UIs**, with a focus on production-ready solutions.
+Full-stack developer with experience in **Java, Spring Boot, Next.js, React, and Python**.  
+I build **clean, reliable APIs** and **responsive UIs**, focusing on **production-ready solutions**.
 
 ---
 
 ### 🛠 Tech Stack
+
 **Backend:** <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />  
 **Frontend:** <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" />  
-**Database & Cloud:** <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,gcp" />  
+**Database:** <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />  
+**Cloud:** <img src="https://skillicons.dev/icons?i=gcp,digitalocean" />  
 **DevOps & Tools:** <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github" />
 
 ---
 
 ### 🌐 Connect
-📧 chhormratha007@gmail.com 
+📧 chhormratha007@gmail.com
 
 👀 ![Profile Views](https://komarev.com/ghpvc/?username=rathachhorm&style=flat)
