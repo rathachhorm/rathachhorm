@@ -23,10 +23,6 @@ I build **clean, reliable APIs** and **responsive UIs**, with a focus on product
 ---
 
 ### 🌐 Connect
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/chhorm-ratha/)  
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/rathachhorm)  
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/rathachhorm)  
-
 📧 chhormratha007@gmail.com | 📞 +855 97 200 7701  
 
 👀 ![Profile Views](https://komarev.com/ghpvc/?username=rathachhorm&style=flat)
