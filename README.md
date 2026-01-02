@@ -23,6 +23,6 @@ I build **clean, reliable APIs** and **responsive UIs**, with a focus on product
 ---
 
 ### 🌐 Connect
-📧 chhormratha007@gmail.com | 📞 +855 97 200 7701  
+📧 chhormratha007@gmail.com 
 
 👀 ![Profile Views](https://komarev.com/ghpvc/?username=rathachhorm&style=flat)
