@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-Full-stack developer with a **Computer Science degree**, specializing in:
+Software developer with a **Computer Science and Engineering**, specializing in:
 - **Java & Spring Boot** for scalable backend services  
 - **Next.js & React** for modern, responsive frontends  
 - **Python** for automation, scripting, and supporting backend services  
