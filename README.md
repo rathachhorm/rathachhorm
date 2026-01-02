@@ -74,4 +74,4 @@ I focus on **clean architecture**, **reliable APIs**, and **shipping production-
 
 ---
 
-👀 ![Profile Views]([https://komarev.com/ghpvc/?username=rathachhorm&style=flat](https://komarev.com/ghpvc/?username=rathachhorm&style=flat&reset=1))
+👀 ![Profile Views](https://komarev.com/ghpvc/?username=rathachhorm&style=flat)
